@@ -1,0 +1,160 @@
+body, html {
+    overflow-x: hidden;
+	color: #212529;
+}
+
+body {
+    background-color: #f8f9fa;
+    
+}
+
+p {
+    font-family: 'acumin-pro', sans-serif;
+	font-size: 1em;
+    line-height: 1.5em;
+    color: #222;
+	
+	
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+h5 {
+    color: #868E96;
+	font-family: Lato;
+}
+
+hr {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+li {
+	font-family: 'acumin-pro', sans-serif;
+}
+
+
+
+.section {
+    padding-bottom: 48px;
+	padding-top: 48px
+}
+
+.section-header {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-size: 2.25em;
+}
+
+.subheader {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	
+}
+
+.happy-emoji {
+    max-height: 32px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon-subtitle {
+    line-height: 1.25;
+    font-size: 12px;
+    padding-top: 15px;
+    margin-bottom: 40;
+    color: #212529;
+}
+
+.box-shadow {
+    width: 100%;
+    margin-top: -28px;
+}
+
+/* Navbar */
+
+.custom-nav {
+    height: 57px;
+    width: 100%;
+}
+
+.logo {
+    height: 37px;
+    width: 169px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.store-icon {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		height: 30px;
+}
+
+
+
+/* Benifits */
+
+.benifits {
+	background-color: #51cf66;
+}
+
+
+
+
+.pull-left {
+    float: left !important;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.feedback-title {
+    font-family: 'Lato', sans-serif;
+	font-size: 3rem;
+	font-weight: 400i;
+	color: #212529;
+}
+
+.testimonial-box {
+    margin-top: 20px;
+    height: 100px;
+    background-color: white;
+}
+
+.testimonials-text {
+    padding: 8%;
+    font-size: 12px;
+}
+
+.container-shadow {
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+}
+
+.author {
+    color: #51cf66;
+    float: right;
+}
+
+.indecia {
+    color: #777;
+}
+
+.alert-info {
+    background-color: white;
+    color: #337ab7;
+}
+
+.heads-up {
+    color: #337ab7;
+}
+
+.description-subsection {
+		padding-top: 8px;
+		padding-bottom: 8px;	
+}
+
