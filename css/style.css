@@ -1,38 +1,26 @@
 body, html {
     overflow-x: hidden;
-	color: #212529;
-}
-
-body {
+	  color: #212529;
+    font-family: 'Poppins', sans-serif;
     background-color: #f8f9fa;
-    
 }
 
-p {
-    font-family: 'acumin-pro', sans-serif;
-	font-size: 1em;
-    line-height: 1.5em;
-    color: #222;
-	
-	
+p, li {
+    font-family: 'Poppins', sans-serif;
+	  font-size: 1em;
+    line-height: 1.75em;
+    color: #495057;
+
 }
 
 h3 {
     margin-top: 10px;
 }
 
-h5 {
-    color: #868E96;
-	font-family: Lato;
-}
 
 hr {
 	margin-top: 0px;
 	margin-bottom: 0px;
-}
-
-li {
-	font-family: 'acumin-pro', sans-serif;
 }
 
 
@@ -43,7 +31,6 @@ li {
 }
 
 .section-header {
-	font-family: 'Lato', sans-serif;
 	font-weight: 700;
 	font-size: 2.25em;
 }
@@ -51,12 +38,12 @@ li {
 .subheader {
 	font-family: 'Lato', sans-serif;
 	font-weight: 700;
-	
+
 }
 
 .happy-emoji {
     max-height: 32px;
-    
+
     margin-left: auto;
     margin-right: auto;
 }
@@ -98,11 +85,19 @@ li {
 
 /* Benifits */
 
-.benifits {
-	background-color: #51cf66;
+#benifits {
+  background-color: #e9ecef;
+
 }
 
+.benifits-icon {
+  height: 50px;
+}
 
+.icon-container {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
 
 
 .pull-left {
@@ -155,6 +150,5 @@ li {
 
 .description-subsection {
 		padding-top: 8px;
-		padding-bottom: 8px;	
+		padding-bottom: 8px;
 }
-
